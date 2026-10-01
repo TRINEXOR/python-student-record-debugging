@@ -1,0 +1,33 @@
+=== Student Report ===
+Generated: 2026-10-01 18:35:58
+
+Name:    Alice Johnson
+  Average: 91.50
+  Grade:   A
+  Email:   alice@example.com
+
+Name:    Bob Smith
+  Average: 61.25
+  Grade:   D
+  Email:   bob@example.com
+
+Name:    Carol White
+  Average: 78.75
+  Grade:   C
+  Email:   carol@example.com
+
+Name:    David Brown
+  Average: 48.75
+  Grade:   F
+  Email:   david@example.com
+
+Name:    Eva Martinez
+  Average: 96.50
+  Grade:   A
+  Email:   eva@example.com
+
+Name:    Frank Lee
+  Average: 71.00
+  Grade:   C
+  Email:   frank@example.com
+

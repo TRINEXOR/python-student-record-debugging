@@ -1,0 +1,44 @@
+[
+  {
+    "id": "1",
+    "name": "Alice Johnson",
+    "average": 91.5,
+    "grade": "A",
+    "email": "alice@example.com"
+  },
+  {
+    "id": "2",
+    "name": "Bob Smith",
+    "average": 61.25,
+    "grade": "D",
+    "email": "bob@example.com"
+  },
+  {
+    "id": "3",
+    "name": "Carol White",
+    "average": 78.75,
+    "grade": "C",
+    "email": "carol@example.com"
+  },
+  {
+    "id": "4",
+    "name": "David Brown",
+    "average": 48.75,
+    "grade": "F",
+    "email": "david@example.com"
+  },
+  {
+    "id": "5",
+    "name": "Eva Martinez",
+    "average": 96.5,
+    "grade": "A",
+    "email": "eva@example.com"
+  },
+  {
+    "id": "6",
+    "name": "Frank Lee",
+    "average": 71.0,
+    "grade": "C",
+    "email": "frank@example.com"
+  }
+]
